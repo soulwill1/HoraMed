@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/soulwill1/HoraMedFrontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/soulwill1/HoraMedBackend
