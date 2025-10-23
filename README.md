@@ -33,10 +33,3 @@ O repositório está organizado em duas partes principais:
 - **Controle de versão**: Git/GitHub  
 
 ---
-
-## Como executar
-
-### Clonar o repositório
-```bash
-git clone https://github.com/soulwill1/HoraMed.git
-cd HoraMed
